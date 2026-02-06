@@ -37,3 +37,4 @@ Enter your username or NEW or VISITOR
 User:
 ```
 ## ATDTtelehack.com:23            # Ретро-интернет симулятор
+## ATDTvert.synchro.net
