@@ -6,7 +6,7 @@
 ## ATDTbbs.fozztexx.com:23
 
 
-
+```
 CONNECT 115200
 
 ▒▒▒▒
@@ -35,3 +35,4 @@ RetroBattlestations.com
 
 Enter your username or NEW or VISITOR
 User:
+```
